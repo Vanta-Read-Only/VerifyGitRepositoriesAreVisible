@@ -1,0 +1,2 @@
+# VerifyGitRepositoriesAreVisible
+VerifyGitRepositoriesAreVisible
